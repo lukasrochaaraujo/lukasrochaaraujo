@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukasrochaaraujo/)](https://www.linkedin.com/in/lukasrochaaraujo/)
 
-- 🔭 I’m currently working on [Instituto Atlântico](https://www.atlantico.com.br/)
+- 🔭 I’m currently working on [Iteris - A Software Company](https://www.iteris.com.br/)
 - 🌱 Always improving my skills on C# and .NET ecosystem
 - 📫 How to reach me: lukasrochaaraujo@hotmail.com
 
