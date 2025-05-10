@@ -1,6 +1,6 @@
 ### Hi there, I'm Jorge Lucas 👋 💻
 
-## I'm Software Engineer at Iteris and a tech lover!
+## I'm Software Engineer!
 
 ### Connect with me:
 
